@@ -13,7 +13,7 @@ go run . -p 3000 -origin https://example.com
 ### User
 
 ```bash
-go install github.com/Fidnix/caching-proxy
+go install github.com/Fidnix/caching-proxy@v0.1.1
 ```
 
 > [!NOTE]
