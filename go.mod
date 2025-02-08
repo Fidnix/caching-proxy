@@ -1,4 +1,4 @@
-module caching-proxy
+module github.com/Fidnix/caching-proxy
 
 go 1.23.2
 
